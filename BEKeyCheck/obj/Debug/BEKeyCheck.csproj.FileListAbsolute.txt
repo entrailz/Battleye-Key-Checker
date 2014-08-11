@@ -1,0 +1,9 @@
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.Form1.resources
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\bin\Debug\BEKeyCheck.exe
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\bin\Debug\BEKeyCheck.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.exe
+c:\users\tyler\documents\visual studio 2013\Projects\BEKeyCheck\BEKeyCheck\obj\Debug\BEKeyCheck.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\BEKeyCheck\BEKeyCheck\bin\Debug\BEKeyCheck.exe.config
